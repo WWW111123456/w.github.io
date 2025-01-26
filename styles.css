@@ -1,0 +1,112 @@
+.h1 {
+    font-weight: bold;
+}
+.h2 {
+    font-weight: 100px;
+    margin: 30px 20px 20px;
+}
+.h3 {
+    width: 500px;
+    height: 300px;
+    margin: 30px 450px 30px;
+    border-radius: 20px;
+    border-width: 3px;    
+	border-style: solid;  
+	border-color: black;    
+	width: 500px;
+	height: 300px;
+}
+.h4 {
+    font-style: italic;
+    font-weight: bold;
+}
+main {
+    background: white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+}
+nav a{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav a:hover{
+    background-color: lightcyan;
+    color: black;
+}
+.navigation {
+	width: initial;
+	height: 40px;
+	color: lightgrey;
+	background-color: lightgray;
+    border-radius: 5px;
+    text-align: center;
+}
+.navigation a{
+padding: 20px;
+}
+#wrapper {
+    width: 1500px;
+    border-radius: 20px;
+    background-color: darkgray;
+    padding: 5px;
+}
+#menu {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 20px;
+	background-color: black;
+    border-radius: 20px;
+}
+#menu a {
+	margin: 0 5px;
+	padding: 15px 25px;
+	text-decoration: none;
+	color: #fff;
+	font: bold 14px Arial;
+}
+#menu a:hover, #menu a.active {
+	color: #484848;
+	background-color: #fff;
+}
+.div {
+    margin: 30px 30px 30px;
+}
+a:link, a:visited {
+	color: black;
+    text-decoration: none;
+}  
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: black;
+}
+.iframe{
+    display: block;
+    margin: 20px ;
+    border-radius: 10px;
+    width: 10%;
+    height: 450px;
+}
+.sight {
+    background: white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    width: 80%;
+}
+#footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #9B6100;
+    font: bold 13px Arial;
+}
